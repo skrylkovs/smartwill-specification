@@ -84,4 +84,4 @@
 
 - dglegacy.com
 - cryptotestament.io
-- https://cryptowill.tech
+- cryptowill.tech
