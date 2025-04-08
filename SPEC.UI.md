@@ -79,3 +79,9 @@
 - **Справа:**
     - Иконки социальных сетей (Telegram, Twitter, LinkedIn)
     - © 2025 SmartWill | DAO. All rights reserved.
+ 
+  ## Reference
+
+- dglegacy.com
+- cryptotestament.io
+- https://cryptowill.tech
