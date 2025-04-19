@@ -81,7 +81,7 @@
     - © 2025 SmartWill | DAO. All rights reserved.
  
   ## Reference
-
-- dglegacy.com
-- cryptotestament.io
+Конкурент:
 - cryptowill.tech
+Дизайн:
+- linear.app
