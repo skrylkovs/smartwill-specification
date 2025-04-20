@@ -98,8 +98,6 @@ Swartwill является менеджером наследников и ник
 ---
 
 ## Блок - Футер
-
-- **Фон** 
 - **Слева:**
     - Логотип SmartWill
     - Ссылки: Главная, Создать завещание, Купить токены, FAQ, Контакты
@@ -108,7 +106,7 @@ Swartwill является менеджером наследников и ник
     - Иконки социальных сетей (Telegram, Twitter, LinkedIn)
     - © 2025 SmartWill | DAO. All rights reserved.
  
-  ## Reference
+## Reference
 Конкурент:
 - cryptowill.tech
   
