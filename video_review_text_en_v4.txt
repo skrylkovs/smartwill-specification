@@ -1,0 +1,27 @@
+SmartWill is a prototype Web3 application for managing digital inheritance.
+
+The application has two modes: for testator and for heir.
+Let's start with the testator's interface.
+1) To start, I will connect a Metamask wallet.
+2) We create a smart will and set up regular transfers to the heir's wallet.
+For testing purposes, we set the "Waiting period" to 5 minutes and the "Transfer Frequency" to 3 minutes.
+The heir will be able to receive 0.0001 ETH 5 minutes after the testator's last activity.
+Then, they will be able to receive this amount every 3 minutes.
+In a real-world case, it would be advisable to set the "Waiting period" to 6 months and the "Transfer Frequency" to 1 month for example.
+
+3) We update our activity by clicking the "Confirm I'm Alive" button.
+From this moment, 5 minutes must pass for the heir to receive the first transfer.
+
+
+Now, let's switch to the heir's interface.
+1) Heir's Metamask wallet is already connected to the application.
+2) We refresh the list of wills.
+3) As expected, we see the will card. The funds will be available in 5 minutes. We are waiting...
+4) After 5 minutes, the option to receive funds becomes available.
+5) We click "Receive funds"...
+6) 0.0001 ETH (Ethereum) has been transferred to our wallet.
+7) The next opportunity to receive funds is in 3 minutes.
+
+This concludes the prototype overview.
+
+If you are interested, you can reach out to me using the contact information provided in the video description.

@@ -1,0 +1,30 @@
+This is an overview of a prototype web3 application for manage digital inheritance – SmartWill.
+
+The application has two modes:
+The first is for the testator (the person who creates wills).
+The second is for the heir (who can receive regular payments according to the testator’s will).
+
+Начнём с интерфейса завещателя.
+1) To start, I will connect a Metamask wallet.
+2) Создаём умное завещание. Настраиваем регулярные переводы на кошелёк наследника.
+В целях тестирования мы устанавливаем Waiting period – 5 минут и Transfer Frequency - 3 минуты.
+Наследник сможет получить 0.0001 ETH через 5 минут после последней активности завещателя.
+Потом он сможет получать эту сумму каждые 3 минуты.
+
+В реальном случае целесообразно было бы установить Waiting period – 6 месяцев и Transfer Frequency - 1 месяц.
+
+3) Обновляем свою активность кнопкой "Confirm I'am Alive".
+Как видим, дата Last confirmation изменилась текущую.
+Начиная с этого момента должно пройти 5 минут, чтобы сын смог получить первый перевод.
+
+Переходим к интерфейсу наследника.
+1) К приложению уже подключен Metamask кошелёк, на который завещатель оформлял завещание.
+2) Обновляем список завещаний.
+3) Как и ожидалось, видим карточку завещания. Получение средств доступно через 5 минут. Ждём...
+4) Через 5 минут у нас появляется возможность получить средства.
+5) Нажимаем "Receive funds"...
+6) На наш кошелёк было переведено 0.0001 ETH (Ethereum).
+7) Следующая возможность получить средства через 3 минуты.
+
+На этом обзор прототипа завершен.
+If you are interested, you can reach out to me using the contact information provided in the video description.

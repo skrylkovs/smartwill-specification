@@ -1,0 +1,52 @@
+This is an overview of a prototype web3 application for creating smart wills – SmartWill.
+In this video, a smart will is a tool that makes regular payments to an heir’s wallet.
+
+There can be several smart wills. For example:
+The first will transfers $10,000 monthly to the wife.
+The second will transfers $1,000 weekly to the son.
+The fifth will transfer $50,000 to the son for university tuition annually after he reaches adulthood.
+And so on.
+
+The application has two modes:
+The first is for the testator (the person who creates wills).
+The second is for the heir (who can receive regular payments according to the testator’s will).
+
+To start, I will connect a Metamask wallet.
+
+Now you see the testator’s interface. I have already created several smart wills.
+
+Each smart will has the following settings:
+1) Heir’s full name and role (for example, son, daughter, wife, etc.)
+2) Heir’s wallet – the address to which funds will be sent.
+3) Transfer amount – how much the heir can receive in one transaction (Transfer: 0.0001 ETH).
+4) Will balance – the total amount available for the heir (Balance: 0.005 ETH).
+5) Transfer frequency – how often the heir can receive the specified amount (for example, every 3 minutes).
+6) Waiting period – the period of the testator’s inactivity after which the heir can start receiving payments (for example, 5 minutes).
+7) Contract address – the address of the smart contract managing this will.
+
+All time periods are set for testing purposes; in production, these will be weeks or months, not minutes.
+Also, the amounts shown are minimal and only for testing purposes.
+
+At the bottom, there is a button for the testator to confirm their legal capacity.
+Let’s click it.
+We see that the "Last confirmation:" date has been updated to the current date.
+
+Now I’ll switch to the “Create Will” tab.
+I’ll fill in all the fields and create another will.
+After creating the will, we are taken to the list and can see the newly created will.
+That concludes the overview of the testator mode.
+
+Let’s move on to the heir mode.
+Here we see the list of the heir’s wills – the list previously created by the testator.
+We can receive funds to our wallet if the testator has been inactive for the specified period.
+As you can see, the "Receive funds" button is inactive because the testator has just confirmed their legal capacity.
+You need to wait a few minutes.
+
+Click “Receive funds”.
+0.0001 ETH has been transferred to the wallet. Now the button is unavailable for the duration of the “Transfer frequency” period.
+This means the heir will be able to receive the next transfer in 3 minutes.
+In real cases, this period would typically be set to a year, a month, or a week.
+
+If you are interested, you can reach out to me using the contact information provided in the video description.
+
+Thank you for your attention.
