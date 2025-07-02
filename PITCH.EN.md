@@ -14,6 +14,7 @@ But life is unpredictable.
 
 If something happens to the person, their heirs might suddenly gain access to a large sum of money — with no structure or control. This can lead to:
  • 💸 Unwise spending
+ 
  • 🧒 Loss of long-term support for dependents
  • 🧑‍🎓 Reduced motivation for older children
  • 💔 Vulnerability to outside influence
