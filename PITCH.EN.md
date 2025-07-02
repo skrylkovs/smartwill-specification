@@ -42,8 +42,11 @@ Full transparency and automation via smart contracts.
 ⸻
 
 What we have:
+
  • A working prototype
+ 
  • Monetization model
+ 
  • Strong Web3 development experience
 
 ⸻
